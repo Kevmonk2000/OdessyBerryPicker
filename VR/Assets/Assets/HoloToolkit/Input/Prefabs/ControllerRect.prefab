@@ -111,7 +111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: 3
   buttonName: LHandTrigger
-  grabRadius: 1
+  grabRadius: 10
   grabMask:
     serializedVersion: 2
     m_Bits: 1024
